@@ -14,4 +14,4 @@ output:
   postcards::trestles
 ---
  
-I am a PhD candidate in Epidemiology at the University of Wisconsin-Madison and am advised by Professor Ronald Gangnon and Professor Jun Zhu. My research focuses on methods in spatial epidemiology, specifically working on statistical methods and applications in spatial cluster detection. I am also a Project Assistant (Statistical Consultant) with the CALS Statistical Consulting Lab. I was a 2016 Data Science Fellow at Data Science for Social Good and previously worked at the University of Chicago Booth School of Business Accounting Research Center as a Research Professional.
+I am a PhD candidate in Epidemiology at the University of Wisconsin-Madison and am advised by Professor Ronald Gangnon and Professor Jun Zhu. My research focuses on methods in spatial epidemiology, specifically working on statistical methods and applications in spatial cluster detection. I am also a Project Assistant (Statistical Consultant) with the CALS Statistical Consulting Lab. 
